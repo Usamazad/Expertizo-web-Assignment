@@ -1,0 +1,437 @@
+body{
+    margin: 0px;
+}
+
+
+
+
+.maincontainer{
+    justify-content: space-between;
+
+    box-shadow: 0px 0px 12px #c4b7b769;
+   
+    display: flex;
+    /* position:  fixed; */
+}
+
+
+
+.left{
+    position:relative;
+    top: 24px;
+    left: 106px;
+}
+.left img{
+    height: 57px;
+    width: 169px;
+}
+.right{
+    margin: 15px 127px;
+}
+
+
+
+
+.right li{
+    float: left;
+    list-style: none;
+    padding: 12px;
+    font-family: sans-serif;
+    color: #013289;
+}
+
+.right svg{
+    height: 12px;
+    width: 12px    ;
+}
+.right li:hover{
+    color: #4154f1;
+}
+
+
+.maincontainer2{
+   display: flex;
+    justify-content: space-between;
+    position: relative;
+
+    
+
+}
+
+.left2{
+    position: relative;
+
+    position: relative;
+    top: 130px;
+    
+    left: 109px;
+}
+
+
+
+
+.btn{
+    box-shadow: 0px 0px 12px rgb(107, 107, 199);
+    background-color: #4154f1;
+    display: inline-block;
+    padding: 18px 40px;
+
+    margin: 12px;
+    border-radius: 7px;
+    color: white;
+    font-family: sans-serif
+
+}
+
+.right2 img{
+   
+    width: 580px;
+    height: 406px;
+    position: relative;
+   top:  66px;
+    right: 120px;
+    
+}
+
+.left2 h1{
+    color: #013289;
+    font-family:  "Nunito", sans-serif;
+    font-size: 2.5rem;;
+}
+
+.left2 p{
+ font-family:  "Nunito", sans-serif;
+ font-size: 24px;
+ color: #444444;
+}
+
+.maincontainer3{
+    position: relative;
+    justify-content: space-between;
+    display: flex;
+}
+.left3{
+
+    position: relative;
+    top: 212px;
+    left: 92px;
+    width: 531px;
+    background-color: #F6F9FF;
+    padding: 44px 44px;
+    height: 349px;  
+}
+
+.left3 h3{
+    color:#4154f1;
+    font-size: 14px;
+    /* font-weight: 700; */
+    text-transform: uppercase;
+    text-transform: uppercase;
+    font-family: serif;
+}
+.left3 h2{
+    color: #012970;
+    font-size:27px;
+    
+}
+.left3 p{
+    font-size: 17px;
+    font-family: sans-serif;
+    color: #444444;
+}
+
+
+
+
+.right3{
+
+    position: relative;
+    top: 177px;
+    left: -89px;
+  
+}
+.right3 img{
+    height: 473px;
+    width: 712px;
+
+}
+
+.section5{
+    display: flex;
+}
+
+
+.sectionbox{
+    align-items: center;
+    margin: 0px 230px;
+    
+}
+
+.header{
+    text-align: center;
+    margin-top: 300px;
+    font-family: sans-serif;
+}
+
+
+.header p{
+    color:#4154f1 ;
+    font-size: 16px;
+}
+
+.header h1{
+    color: #012970;
+    font-size: 37Spx;
+}
+
+
+.images img{
+    height: 47px;
+    /* display: flex; */
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.maincontainer6{
+    margin: 100px 0px;
+}
+
+.conttainer6{
+    margin: 0px 200px;
+
+}
+
+.maincontainer6 p{
+    font-size: 37px;
+    font-family: sans-serif;
+   color: #012970;
+   text-align: center;
+   margin: 0px;
+   margin-bottom: 20px;
+}
+
+.first{
+    font-size: 13px;
+    font-family: sans-serif;
+    color: #4154f1;
+    text-align: center;
+}
+
+
+.boxes{
+display: flex;
+justify-content:center;
+gap: 20px;
+flex-wrap: wrap;
+background-color: whitesmoke;
+}
+
+.boxes .box{
+    /* border: 1px solid black; */
+    height: 350px;
+    width: 350px;
+    border-bottom: 3px solid greenyellow;
+
+}
+
+.box img{
+    height:  35px;
+    width: 36px;
+    
+    
+
+}
+.box h3{
+
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+
+
+}
+
+.box p{
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+
+.box:hover{
+
+    background-color: rgb(175, 18, 175);
+}
+
+
+.box h3:hover{
+
+    color: white;
+}
+.box p:hover{
+    color: white;
+}
+
+.maincontainer7{
+    margin: 0px 200px;
+}
+
+.conttainer7{
+    justify-content: center;
+    
+}
+.container7 h2{
+    text-align: center;
+    font-size: 16px;
+    font-family: sans-serif;
+    text-align: center;
+    
+    color: #4154f1;
+}
+
+
+.container7 p{
+    
+    font-size: 37px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #012970;
+    margin: 20px;
+    margin-bottom: 20px;
+}
+
+.left7 img{
+
+ height: 500px;
+    width: 609px;
+}
+.box2{
+    display: flex;
+}
+  
+.right7{
+    display: flex;
+    flex-wrap: wrap;
+    height: 442px;
+    width: 560px;
+    gap: 40px;
+   padding: 20px;
+   margin: 40px 0px 0px 30px;
+    /* border: 1px solid; */
+}
+.right7 div{
+    height: 80px;
+    width: 250px;
+    box-shadow: 0px 0px 5px lightgrey;
+}
+.right7 div h3{
+    margin: 30px 0px 0px 50px;
+    font-size: 20px;
+    color: #012970;
+    font-family: sans-serif;
+}
+.right7 div svg{
+    height: 25px;
+}
+.right7 div svg:hover{
+    background-color: #4154f1;
+}
+
+.maincontainer8{
+    margin: 0px 70px;
+    padding: 0px 10px;
+}
+.header1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.header1 h2{
+
+    color: #4154f1;
+    font-size: 16px;
+    font-family: sans-serif;
+
+}
+.header1 p{
+    color: #012970;
+    font-family: sans-serif;
+    font-size:31px ;
+    font-weight: 700;
+    
+}
+.list ul{
+    margin: 0px 700px 20px 630px;
+    /* border: 1px solid; */
+    display: flex;
+    height: 80px;
+    width: 200px;
+    padding: 0px 40px;
+    align-items: center;
+    gap: 10px;
+    justify-content: space-evenly;
+
+}
+
+.list ul li{
+    list-style: none;
+    /* gap: 5px; */
+    /* height: 50px; */
+    /* width: 190px; */
+    box-shadow: 0px 0px 3px;
+    padding: 20px;
+    border-radius: 50px;
+    font-family: sans-serif;
+    
+}
+.list ul li:hover{
+    opacity: 0.6;
+
+}
+
+.div12{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 70px;
+    gap: 20px;
+
+}
+.div12 img{
+    height: 450px;
+    /* width: 250px; */
+    box-shadow: 0px 0px 5px rgb(213, 213, 213);
+}
+
+.div12 div:hover img{
+    opacity: 0.3;
+    transform: scale(1.01);
+
+}
+
+.maincontainer9{
+    margin: 80px 70px;
+}
+
+.box3{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.reviewBox{
+    /* border: 1px solid; */
+    height: 450px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding:25px;
+    box-shadow: 0px 0px 12px gray;
+}
+
+.reviewBox p {
+    text-align: center;
+}
+.staricon img{
+    height: 35px;
+}
+
+.userPhoto{
+   border-radius: 60px;
+}
